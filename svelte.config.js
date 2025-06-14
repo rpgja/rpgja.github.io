@@ -10,7 +10,7 @@ const config = {
 			fallback: "index.html",
 		}),
 		paths: {
-			base: process.env.GITHUB_PAGES ? "/" : "",
+			base: "",
 		},
 	},
 };
