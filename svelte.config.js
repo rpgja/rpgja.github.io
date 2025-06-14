@@ -12,7 +12,7 @@ const config = {
 		paths: {
 			base: "",
 		},
-		render: {
+		prerender: {
 			entries: ['*']
 		}
 	},
