@@ -5,7 +5,7 @@
 	let { children } = $props();
 
 	const title = "RPGEN非公式サイト一覧";
-	const description = "あなたのマップ制作を応援します。";
+	const description = "あなたのRPG制作を応援します。";
 </script>
 
 <svelte:head>
