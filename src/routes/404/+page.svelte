@@ -1,5 +1,7 @@
-<h1>404だよん</h1>
-<p>
-    Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the
-    documentation
-</p>
+<script>
+    export const prerender = true;
+</script>
+
+<h1>404 - ページが見つかりません</h1>
+<p>URLを確認してください。</p>
+<a href="/">トップへ戻る</a>
