@@ -1,7 +1,7 @@
 {
 	"name": "RPGEN非公式サイト一覧",
 	"short_name": "unofficial-list",
-	"description": "あなたのマップ制作を応援します。",
+	"description": "あなたのRPG制作を応援します。",
 	"start_url": "/",
 	"display": "standalone",
 	"background_color": "#123456",
