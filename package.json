@@ -35,5 +35,9 @@
 	},
 	"dependencies": {
 		"@lucide/svelte": "0.515.0"
+	},
+	"volta": {
+		"node": "22.16.0",
+		"pnpm": "10.12.1"
 	}
 }
